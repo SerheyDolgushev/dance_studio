@@ -1,0 +1,11 @@
+# ignore apache logs
+logs
+# ignore backups
+backup
+# ez publish settings backups
+*.php~
+# ignore var
+public_html/var/cache
+public_html/var/log
+public_html/var/ezwebin_site/cache
+public_html/var/ezwebin_site/log

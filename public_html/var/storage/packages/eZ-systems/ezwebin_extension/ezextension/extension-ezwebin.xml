@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension name="ezwebin">
+  <file name="packages" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="forums-1.0-1.ezpkg" path="/packages" md5sum="8468449dce57367538a0765267fef07a"/>
+  <file name="product-1.0-1.ezpkg" path="/packages" md5sum="eac8d17d3d1a34af20af533c55113e6a"/>
+  <file name="banner-1.0-1.ezpkg" path="/packages" md5sum="6bc59f75e880abbbbbe1a03507527a6e"/>
+  <file name="user_group-1.0-1.ezpkg" path="/packages" md5sum="8f5241e07d8ea87ab586e673830e619d"/>
+  <file name="blog_post-1.0-1.ezpkg" path="/packages" md5sum="35f61c79cf964820467f7db690e7d0bd"/>
+  <file name="feedback_form-1.0-1.ezpkg" path="/packages" md5sum="63186fb72dc11b239cbefc13a3644641"/>
+  <file name="article_main_page-1.0-1.ezpkg" path="/packages" md5sum="5f3c9ea5857d7772bc1c8adeb08f78fd"/>
+  <file name="event_calendar-1.1-1.ezpkg" path="/packages" md5sum="f866b8430e8a629db664c8213557c495"/>
+  <file name="event-1.0-1.ezpkg" path="/packages" md5sum="34675e3693704ea83afe010ff837823a"/>
+  <file name="folder-1.0-1.ezpkg" path="/packages" md5sum="964a0f732c54d599e3c7689b58413572"/>
+  <file name="file-1.0-1.ezpkg" path="/packages" md5sum="6eb57ea8c8f5d30c93891d65a59f3f1f"/>
+  <file name="blog-1.0-1.ezpkg" path="/packages" md5sum="840e6fc9aef9508233ac84dcd42b4604"/>
+  <file name="article_sub_page-1.0-1.ezpkg" path="/packages" md5sum="0b71838669d8c5666cab9f43bb7bf2f2"/>
+  <file name="multicalendar-1.0-1.ezpkg" path="/packages" md5sum="dd0544404d36bfff86a40bc618d0f32e"/>
+  <file name="frontpage-1.0-1.ezpkg" path="/packages" md5sum="85990f175f810160e3627dc009a55700"/>
+  <file name="geo_article-1.5-0.ezpkg" path="/packages" md5sum="674baa2e06167aa68b0351c013bad2ae"/>
+  <file name="template_look-1.0-1.ezpkg" path="/packages" md5sum="0ebd1d8d3d9454c0c24819750f9b0e3f"/>
+  <file name="documentation_page-1.0-1.ezpkg" path="/packages" md5sum="737478dae706a1a362647c8d3769c1cd"/>
+  <file name="infobox-1.0-1.ezpkg" path="/packages" md5sum="31cae81cda66289d3c2eaed25a5434ae"/>
+  <file name="article-1.0-1.ezpkg" path="/packages" md5sum="f97ea3180f7a432577609869f80cd1d2"/>
+  <file name="autoloads" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="eztagcloud.php" path="/autoloads" md5sum="b3ff5a3ae0b997e4dc23de8dd810fc39"/>
+  <file name="ezarchive.php" path="/autoloads" md5sum="1410d1b299d9b130990318df985b15b4"/>
+  <file name="ezkeywordlist.php" path="/autoloads" md5sum="ed5ede43dc02fd311962f4ada48c2249"/>
+  <file name="eztemplateautoload.php" path="/autoloads" md5sum="1fcb0dbc189c4153c18e5b4ba5abc71b"/>
+  <file name="ezpagedata.php" path="/autoloads" md5sum="ce02c8ce082bb298428c41919fddb446"/>
+  <file name="README" md5sum="d41d8cd98f00b204e9800998ecf8427e"/>
+  <file name="LICENSE" md5sum="0636e73ff0215e8d672dc4c32c317bb3"/>
+  <file name="translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="dan-DK" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/dan-DK" md5sum="10a655a31dae621aa04c56c2ae1155e0"/>
+  <file name="cze-CZ" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/cze-CZ" md5sum="6982d036fbdcfe842209581b6f5ea443"/>
+  <file name="jpn-JP" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/jpn-JP" md5sum="748a577718c834b52f88fe1e8ec03db0"/>
+  <file name="chi-CN" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/chi-CN" md5sum="9672c7915161fd844b59f1cf68a590f0"/>
+  <file name="chi-TW" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/chi-TW" md5sum="33cf5c97ebe919bb84c2f4115a6d9999"/>
+  <file name="swe-SE" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/swe-SE" md5sum="cd44b16db6f839605aa06d299e01bd5e"/>
+  <file name="fre-FR" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/fre-FR" md5sum="efd972c0b914230ae7613b7023366707"/>
+  <file name="ita-IT" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/ita-IT" md5sum="ed7ba84524ba3532a5fd2ea548fe61f3"/>
+  <file name="cat-ES" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/cat-ES" md5sum="916c6cfb113134f85e62c7cfdb5391b4"/>
+  <file name="pol-PL" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/pol-PL" md5sum="4bf7a1f3f421c77b009c2b5012e690c2"/>
+  <file name="ger-DE" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/ger-DE" md5sum="f27707623e35913e67b7fc6559bce0c4"/>
+  <file name="dut-NL" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/dut-NL" md5sum="59fd93c017feebf34bdf307ad3cc0c97"/>
+  <file name="nor-NO" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/nor-NO" md5sum="f6153642271d41185cef56a3a808b3d7"/>
+  <file name="ser-SR" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/ser-SR" md5sum="c25f5cc0b738e0428e5b765c23d8b339"/>
+  <file name="por-BR" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/por-BR" md5sum="2df72f4dd2c646ddea256835e417479c"/>
+  <file name="esl-ES" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/esl-ES" md5sum="0f7fa36e2878532a3eb7e69b5a026b16"/>
+  <file name="fin-FI" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/fin-FI" md5sum="f62c3b7df84c393ef70232eed9cf32dd"/>
+  <file name="untranslated" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/untranslated" md5sum="1c140b6c319d1c6d5810385a14ad3f91"/>
+  <file name="design" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezwebin" path="/design" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="stylesheets" path="/design/ezwebin" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="pagelayout.css" path="/design/ezwebin/stylesheets" md5sum="084ec8b5df23acefab9d37be357a88f7"/>
+  <file name="print.css" path="/design/ezwebin/stylesheets" md5sum="9dc8843ed65c17fedbb802ea765d871e"/>
+  <file name="content.css" path="/design/ezwebin/stylesheets" md5sum="60b0be2d2c4c2becfe27e5e5efab9d40"/>
+  <file name="browsers" path="/design/ezwebin/stylesheets" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ie7lte.css" path="/design/ezwebin/stylesheets/browsers" md5sum="8e11398414f7461ddc7ec6304b9db9eb"/>
+  <file name="ie5.css" path="/design/ezwebin/stylesheets/browsers" md5sum="e5e7825a4a077a51142d98e2e9d29033"/>
+  <file name="ezdhtml" path="/design/ezwebin/stylesheets" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="toolbar.css" path="/design/ezwebin/stylesheets/ezdhtml" md5sum="ecaf038659962aac7cdcf931b2b86167"/>
+  <file name="core.css" path="/design/ezwebin/stylesheets" md5sum="6da9f957b0af43e2666ea4e914b3dec6"/>
+  <file name="images" path="/design/ezwebin" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="factbox" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="border-bl.gif" path="/design/ezwebin/images/factbox" md5sum="916afe94a7e931362912af7bb15e9728"/>
+  <file name="border-bc.gif" path="/design/ezwebin/images/factbox" md5sum="6101165abfd9b1d6d13ccdbaf533eb4f"/>
+  <file name="border-ml.gif" path="/design/ezwebin/images/factbox" md5sum="c1cc7cb3c3bf6f8d410f155865d00479"/>
+  <file name="border-mr.gif" path="/design/ezwebin/images/factbox" md5sum="262913c20b45410f26a7d89245e5a1f4"/>
+  <file name="border-mc.gif" path="/design/ezwebin/images/factbox" md5sum="71cb8790592eba622fb0bdcd1e35ad22"/>
+  <file name="border-br.gif" path="/design/ezwebin/images/factbox" md5sum="929b29d720236e5a2b52699be26b03ab"/>
+  <file name="cal_bg.png" path="/design/ezwebin/images" md5sum="d75a6b31cdf8be1fea449c5020c61570"/>
+  <file name="minus.png" path="/design/ezwebin/images" md5sum="49dd7a04d026e0ea7a42b8be1f7a5cac"/>
+  <file name="calendar-corner-bl.gif" path="/design/ezwebin/images" md5sum="60c02487add2abe6957091b0137d4aca"/>
+  <file name="box-1" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="border-bl.gif" path="/design/ezwebin/images/box-1" md5sum="444cd93357da0aeb48596eb7be4f5cd9"/>
+  <file name="border-bc.gif" path="/design/ezwebin/images/box-1" md5sum="53fca32f8b3841f109357ba3165a3594"/>
+  <file name="border-ml.gif" path="/design/ezwebin/images/box-1" md5sum="a95ee781d54f3b43f19c4989c83bb77d"/>
+  <file name="border-mr.gif" path="/design/ezwebin/images/box-1" md5sum="a95ee781d54f3b43f19c4989c83bb77d"/>
+  <file name="border-br.gif" path="/design/ezwebin/images/box-1" md5sum="14f81f5e97f0c65cb3bd1a4c9e3302f8"/>
+  <file name="border-tl.gif" path="/design/ezwebin/images/box-1" md5sum="61c06d8969a65f744c9f541ff7f29887"/>
+  <file name="border-tr.gif" path="/design/ezwebin/images/box-1" md5sum="3b3241a800b4f4dc162ee3dd6db583fc"/>
+  <file name="border-tc.gif" path="/design/ezwebin/images/box-1" md5sum="9298de92318a4e37172eeb15ac9afbdf"/>
+  <file name="movie-ico.png" path="/design/ezwebin/images" md5sum="069b7a9403ff7965c25e602f6439e169"/>
+  <file name="calendar-corner-br.gif" path="/design/ezwebin/images" md5sum="f2f0f7ea1b783af7e8896afd82df90e0"/>
+  <file name="websitetoolbar" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezwt-icon-rss-add.png" path="/design/ezwebin/images/websitetoolbar" md5sum="3de2fe03fd700b4791b0c61849887f40"/>
+  <file name="ezwt-icon-rss-remove.png" path="/design/ezwebin/images/websitetoolbar" md5sum="4965df2a3070f50fffaa3dc5b05e779f"/>
+  <file name="ezwt-icon-rss.gif" path="/design/ezwebin/images/websitetoolbar" md5sum="b4ca705955f3cd3444c1cf5be8de2d1e"/>
+  <file name="ezwt-icon-remove-rss.gif" path="/design/ezwebin/images/websitetoolbar" md5sum="a60c621f24596201f0a9f8e0aeae1e1f"/>
+  <file name="quote-br.gif" path="/design/ezwebin/images" md5sum="8d2de39a719d21a47177536bf792b441"/>
+  <file name="th_bg.png" path="/design/ezwebin/images" md5sum="53540d259b7358b565a989e81629839e"/>
+  <file name="cal_td_bg.png" path="/design/ezwebin/images" md5sum="bbb65ae6fbf81e94547ef02861409d17"/>
+  <file name="attribute_header_bg_medium.png" path="/design/ezwebin/images" md5sum="9cf7b0263ee488719eb8483eb9f72782"/>
+  <file name="header_bg_left.png" path="/design/ezwebin/images" md5sum="32300058bb0be7386299bd0c754d6179"/>
+  <file name="calendar-corner-tl.gif" path="/design/ezwebin/images" md5sum="bebf6b0d551e909660041e4bb7af8d03"/>
+  <file name="cal_tr_bg.png" path="/design/ezwebin/images" md5sum="3b965ad931efd065372143978f14f41d"/>
+  <file name="forum.png" path="/design/ezwebin/images" md5sum="02691c3c2449f0ce2a32383ca60560fe"/>
+  <file name="factbox-header" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="border-ml.gif" path="/design/ezwebin/images/factbox-header" md5sum="c21be09d833a8c15735ffbe435931eb4"/>
+  <file name="border-mr.gif" path="/design/ezwebin/images/factbox-header" md5sum="c21be09d833a8c15735ffbe435931eb4"/>
+  <file name="border-mc.gif" path="/design/ezwebin/images/factbox-header" md5sum="7f2381eae9f8ee1bcfa7ad9f71474ec6"/>
+  <file name="border-tl.gif" path="/design/ezwebin/images/factbox-header" md5sum="c2e4623a14fb5a6ce258df8e17cb7c3d"/>
+  <file name="border-tr.gif" path="/design/ezwebin/images/factbox-header" md5sum="9325269f6a2bd4177483e623b1ebcd4c"/>
+  <file name="border-tc.gif" path="/design/ezwebin/images/factbox-header" md5sum="ca60a345e3202fa076c5d6b80bd8daef"/>
+  <file name="left-line.gif" path="/design/ezwebin/images" md5sum="85b9e84d58148f40cb42aea973fc9a37"/>
+  <file name="left-corner-top.gif" path="/design/ezwebin/images" md5sum="d79e320dba1dd2aa8af5061b4cc28ecc"/>
+  <file name="attribute_header_bg_long.png" path="/design/ezwebin/images" md5sum="1e38fb6af106fd6d24ef13768183dd63"/>
+  <file name="rss-icon.gif" path="/design/ezwebin/images" md5sum="4bbaec43789d4d1c90c7225cd6d65409"/>
+  <file name="topmenu_li_bg.png" path="/design/ezwebin/images" md5sum="f01bbdfbfb70e7356c55550cbaac64eb"/>
+  <file name="billboard_bg.png" path="/design/ezwebin/images" md5sum="1a58bbaf724cae9e4a4f2e93c32283e8"/>
+  <file name="trash-infobox-ico.gif" path="/design/ezwebin/images" md5sum="31d37022b0c8e29eb0e9367996228c61"/>
+  <file name="edit.gif" path="/design/ezwebin/images" md5sum="9c53abe462ef4367612b336893c07841"/>
+  <file name="highlighted_object_bg.png" path="/design/ezwebin/images" md5sum="45998315bec795aee1bee12a9f99d6cc"/>
+  <file name="bullet_list.gif" path="/design/ezwebin/images" md5sum="906fcf78ff6dbfb62ed392b44271eebe"/>
+  <file name="logo.png" path="/design/ezwebin/images" md5sum="b8b440c8865458e6cb5973860327d944"/>
+  <file name="edit-infobox-ico.gif" path="/design/ezwebin/images" md5sum="343ac0d5fb335e26791644bf07f861f1"/>
+  <file name="icons" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="pdf_icon.gif" path="/design/ezwebin/images/icons" md5sum="f8a379a4c19b3b11ede47e5f601f8ede"/>
+  <file name="tip_icon.gif" path="/design/ezwebin/images/icons" md5sum="a8541f9993d6d29885b0e5a422a2e84a"/>
+  <file name="rss_icon.gif" path="/design/ezwebin/images/icons" md5sum="784a5bec8c538dd1caa5e3817c13c503"/>
+  <file name="header_bg.png" path="/design/ezwebin/images" md5sum="f52b32c0f0110d18f7081736edd31d7a"/>
+  <file name="cal_table_bg.png" path="/design/ezwebin/images" md5sum="26a8decaebba042c16dc6c68a365247b"/>
+  <file name="date_bg.png" path="/design/ezwebin/images" md5sum="f41319c2da0e7a6b4ba0c090b60de160"/>
+  <file name="agendabox" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="border-bl.gif" path="/design/ezwebin/images/agendabox" md5sum="074e1809db83cc3b7f5d9260fc23da51"/>
+  <file name="border-bc.gif" path="/design/ezwebin/images/agendabox" md5sum="be453b781a04c167f150704bb6941a0e"/>
+  <file name="border-ml.gif" path="/design/ezwebin/images/agendabox" md5sum="63954e5126069f3d797f21846e124a04"/>
+  <file name="border-mr.gif" path="/design/ezwebin/images/agendabox" md5sum="7ff80a6f822ec568fbe7b2b17ad5268b"/>
+  <file name="border-br.gif" path="/design/ezwebin/images/agendabox" md5sum="d820db5ea6b43da252b601dda0cfb387"/>
+  <file name="border-tl.gif" path="/design/ezwebin/images/agendabox" md5sum="836ce348fc5cc11190f9107e52f54b69"/>
+  <file name="border-tr.gif" path="/design/ezwebin/images/agendabox" md5sum="8daef385e5c8dde7e59bb3857454620e"/>
+  <file name="border-tc.gif" path="/design/ezwebin/images/agendabox" md5sum="eaed82ef3a44c3acc41602ea15a4fbeb"/>
+  <file name="productbox" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="border-bl.gif" path="/design/ezwebin/images/productbox" md5sum="444cd93357da0aeb48596eb7be4f5cd9"/>
+  <file name="border-bc.gif" path="/design/ezwebin/images/productbox" md5sum="53fca32f8b3841f109357ba3165a3594"/>
+  <file name="border-ml.gif" path="/design/ezwebin/images/productbox" md5sum="a95ee781d54f3b43f19c4989c83bb77d"/>
+  <file name="border-mr.gif" path="/design/ezwebin/images/productbox" md5sum="a95ee781d54f3b43f19c4989c83bb77d"/>
+  <file name="border-mc.gif" path="/design/ezwebin/images/productbox" md5sum="401097517dab10f7d3a3f678c682b81d"/>
+  <file name="border-br.gif" path="/design/ezwebin/images/productbox" md5sum="14f81f5e97f0c65cb3bd1a4c9e3302f8"/>
+  <file name="border-tl.gif" path="/design/ezwebin/images/productbox" md5sum="61c06d8969a65f744c9f541ff7f29887"/>
+  <file name="border-tr.gif" path="/design/ezwebin/images/productbox" md5sum="3b3241a800b4f4dc162ee3dd6db583fc"/>
+  <file name="border-tc.gif" path="/design/ezwebin/images/productbox" md5sum="9298de92318a4e37172eeb15ac9afbdf"/>
+  <file name="forum_table_bg.png" path="/design/ezwebin/images" md5sum="a789f32493e072d1c49913587ec39d84"/>
+  <file name="left-corner-end.gif" path="/design/ezwebin/images" md5sum="2aff9a93a769fafaa2acd89d2915d203"/>
+  <file name="left-item.gif" path="/design/ezwebin/images" md5sum="eb8c50f21961fa5fd72d916c14762047"/>
+  <file name="quote-tl.gif" path="/design/ezwebin/images" md5sum="a9046a6402549faa4ee4a089ab3e924d"/>
+  <file name="trash.gif" path="/design/ezwebin/images" md5sum="a54e5021b1c597539a60da86ef766f0c"/>
+  <file name="calendar_icon.png" path="/design/ezwebin/images" md5sum="473b95188cb1e74a1eaf68a5c408bc42"/>
+  <file name="ezdhtml" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="center.gif" path="/design/ezwebin/images/ezdhtml" md5sum="f476114794357c1f645635fe53517186"/>
+  <file name="splitcell.gif" path="/design/ezwebin/images/ezdhtml" md5sum="9b6f5f5f9b0549d913e02294c644f33a"/>
+  <file name="delrow.gif" path="/design/ezwebin/images/ezdhtml" md5sum="f47a835a2a70591f3eed00db57aab71c"/>
+  <file name="insrow.gif" path="/design/ezwebin/images/ezdhtml" md5sum="f1a82b9b957d2d6df13903bf9d3d3d9f"/>
+  <file name="underline.gif" path="/design/ezwebin/images/ezdhtml" md5sum="78f28b2b9d5157fc5b466883c8953fb4"/>
+  <file name="help.gif" path="/design/ezwebin/images/ezdhtml" md5sum="90cc887b44a44f9dacce2152bf6c5250"/>
+  <file name="numlist.gif" path="/design/ezwebin/images/ezdhtml" md5sum="c49d1ab1327c147edbf3764147bb85eb"/>
+  <file name="reduce_indent.gif" path="/design/ezwebin/images/ezdhtml" md5sum="04406f4614ce73fba2d7ffa8c605083a"/>
+  <file name="italic.gif" path="/design/ezwebin/images/ezdhtml" md5sum="e95b2791fb0b46ef452ddcabc5cdb420"/>
+  <file name="ezicon.gif" path="/design/ezwebin/images/ezdhtml" md5sum="eafb6325960a6ff91c4a02f883c928ae"/>
+  <file name="customtag.gif" path="/design/ezwebin/images/ezdhtml" md5sum="e82ba24fe9e249031ddf63059a62ec1c"/>
+  <file name="bullist.gif" path="/design/ezwebin/images/ezdhtml" md5sum="a32bab2c30da212ffd40bf9faf5fe504"/>
+  <file name="table.gif" path="/design/ezwebin/images/ezdhtml" md5sum="5e0c01a44a38f10fcdac74b27e6a87ec"/>
+  <file name="delcol.gif" path="/design/ezwebin/images/ezdhtml" md5sum="d89fb1ed69fad38c86ce9b41e798e646"/>
+  <file name="indent.gif" path="/design/ezwebin/images/ezdhtml" md5sum="1d904307d59fce183a5f0bdb698d4cfb"/>
+  <file name="image.gif" path="/design/ezwebin/images/ezdhtml" md5sum="bbd4f7dd9c9490c433203212e4070271"/>
+  <file name="bold.gif" path="/design/ezwebin/images/ezdhtml" md5sum="ff4eb6f844c1bca7d51fe8bffbd7ecab"/>
+  <file name="spltcell.gif" path="/design/ezwebin/images/ezdhtml" md5sum="78cdde5c55a4c1e46e76cd5a9f880ac4"/>
+  <file name="redo.gif" path="/design/ezwebin/images/ezdhtml" md5sum="7a670d49fcf876b5d3c46f7c03c9e62a"/>
+  <file name="mrgcell.gif" path="/design/ezwebin/images/ezdhtml" md5sum="f16ea66fc5d6dfc19d6319ed08724136"/>
+  <file name="undo.gif" path="/design/ezwebin/images/ezdhtml" md5sum="6580f5eb073cab95245d38f357e18edf"/>
+  <file name="object_insert.gif" path="/design/ezwebin/images/ezdhtml" md5sum="16dff5607faaaec23874016f7d19e273"/>
+  <file name="anchor.gif" path="/design/ezwebin/images/ezdhtml" md5sum="db9b771cc713a13d2150f4087a4b1abd"/>
+  <file name="objectimage.gif" path="/design/ezwebin/images/ezdhtml" md5sum="b2c494ef858ddd758cd272d0f7a2652b"/>
+  <file name="form.gif" path="/design/ezwebin/images/ezdhtml" md5sum="0577c47970b7bcce1d1c8d39774db11a"/>
+  <file name="mergecell.gif" path="/design/ezwebin/images/ezdhtml" md5sum="2bce4514689a77e5505d0ebaefa731d8"/>
+  <file name="literal.gif" path="/design/ezwebin/images/ezdhtml" md5sum="3802865de2ac457dfd86d5ab94a9ee4f"/>
+  <file name="file.gif" path="/design/ezwebin/images/ezdhtml" md5sum="8882d086e315d36b261e3d24e5656c19"/>
+  <file name="link.gif" path="/design/ezwebin/images/ezdhtml" md5sum="6bc60a95a1adb38085de9ce02acf5534"/>
+  <file name="object_insert.png" path="/design/ezwebin/images/ezdhtml" md5sum="9d91efb03057b45e8d4e61354c85dc63"/>
+  <file name="find.gif" path="/design/ezwebin/images/ezdhtml" md5sum="1c63e04563de549354cfbc7cefb44520"/>
+  <file name="copy.gif" path="/design/ezwebin/images/ezdhtml" md5sum="21bcb92b2f16fd7eae1fcab552e71f9e"/>
+  <file name="object.gif" path="/design/ezwebin/images/ezdhtml" md5sum="7fc3d7ff6cc1d5ea07d22a7c9d3da755"/>
+  <file name="paste.gif" path="/design/ezwebin/images/ezdhtml" md5sum="41a099eb8fcd8bf1ea0d942f2c2a88bb"/>
+  <file name="strike.gif" path="/design/ezwebin/images/ezdhtml" md5sum="05bd39065e246019e1d302d3a161b1eb"/>
+  <file name="anchor_image.gif" path="/design/ezwebin/images/ezdhtml" md5sum="1663f56a06fdc84c9a0d668d1fa9d772"/>
+  <file name="special.gif" path="/design/ezwebin/images/ezdhtml" md5sum="38590e0cf0c3b849b822a8f9b7542de6"/>
+  <file name="inscol.gif" path="/design/ezwebin/images/ezdhtml" md5sum="7cc32aac65864c342d6d878a812de846"/>
+  <file name="media.gif" path="/design/ezwebin/images/ezdhtml" md5sum="21e2b217072b43733fe94c2c5eee9004"/>
+  <file name="customtag_insert.gif" path="/design/ezwebin/images/ezdhtml" md5sum="f8abdb3e5b60028bfc1d1bc468fa21a1"/>
+  <file name="cut.gif" path="/design/ezwebin/images/ezdhtml" md5sum="8c5996179dbb332309e2f8a42611a797"/>
+  <file name="last_reply.png" path="/design/ezwebin/images" md5sum="959148e046aafa5f51db215c9ee0796d"/>
+  <file name="body_bg.png" path="/design/ezwebin/images" md5sum="5a66fb88daf2a8d2300c393572c1d31a"/>
+  <file name="forum_th_bg.png" path="/design/ezwebin/images" md5sum="dff480f436e2c4ca84b3f4c50671460e"/>
+  <file name="box-2" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="border-bl.gif" path="/design/ezwebin/images/box-2" md5sum="8a9a7aaf13ee87ca525ba17ce810e2ee"/>
+  <file name="border-bc.gif" path="/design/ezwebin/images/box-2" md5sum="ba7641ed95785e52d5942ffaed554899"/>
+  <file name="border-ml.gif" path="/design/ezwebin/images/box-2" md5sum="a95ee781d54f3b43f19c4989c83bb77d"/>
+  <file name="border-mr.gif" path="/design/ezwebin/images/box-2" md5sum="a95ee781d54f3b43f19c4989c83bb77d"/>
+  <file name="border-mc.gif" path="/design/ezwebin/images/box-2" md5sum="8a671c57a9a04e71e6ca923686b8c96a"/>
+  <file name="border-br.gif" path="/design/ezwebin/images/box-2" md5sum="428872f12aef3d86e99c6fe76a5333f5"/>
+  <file name="border-tl.gif" path="/design/ezwebin/images/box-2" md5sum="174a1f6dede1e3bd4fe0b6d3ea63b76c"/>
+  <file name="border-tr.gif" path="/design/ezwebin/images/box-2" md5sum="f3e5bad9e332bd5fad54b17b54720493"/>
+  <file name="border-tc.gif" path="/design/ezwebin/images/box-2" md5sum="5ea0242078d3d8166e2f98a34d80f10b"/>
+  <file name="plus.png" path="/design/ezwebin/images" md5sum="51f4c90312e6ae0c91994b93970574de"/>
+  <file name="back-button-16x16.gif" path="/design/ezwebin/images" md5sum="6e96167543669b12ac2656c4be3348c7"/>
+  <file name="calendar-corner-tr.gif" path="/design/ezwebin/images" md5sum="6d57d96e817c388cfefb71819d9d89a1"/>
+  <file name="header_bg_right.png" path="/design/ezwebin/images" md5sum="e200fb8e128b9c3b9e6d994963a0c9dd"/>
+  <file name="footer_bg.png" path="/design/ezwebin/images" md5sum="ad95a4668ddef0b147c3b4519e3e374a"/>
+  <file name="productbox-header" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="border-bl.gif" path="/design/ezwebin/images/productbox-header" md5sum="444cd93357da0aeb48596eb7be4f5cd9"/>
+  <file name="border-bc.gif" path="/design/ezwebin/images/productbox-header" md5sum="53fca32f8b3841f109357ba3165a3594"/>
+  <file name="border-ml.gif" path="/design/ezwebin/images/productbox-header" md5sum="a95ee781d54f3b43f19c4989c83bb77d"/>
+  <file name="border-mr.gif" path="/design/ezwebin/images/productbox-header" md5sum="a95ee781d54f3b43f19c4989c83bb77d"/>
+  <file name="border-mc.gif" path="/design/ezwebin/images/productbox-header" md5sum="8a671c57a9a04e71e6ca923686b8c96a"/>
+  <file name="border-br.gif" path="/design/ezwebin/images/productbox-header" md5sum="14f81f5e97f0c65cb3bd1a4c9e3302f8"/>
+  <file name="border-tl.gif" path="/design/ezwebin/images/productbox-header" md5sum="61c06d8969a65f744c9f541ff7f29887"/>
+  <file name="border-tr.gif" path="/design/ezwebin/images/productbox-header" md5sum="3b3241a800b4f4dc162ee3dd6db583fc"/>
+  <file name="border-tc.gif" path="/design/ezwebin/images/productbox-header" md5sum="9298de92318a4e37172eeb15ac9afbdf"/>
+  <file name="sidemenu_bullet.png" path="/design/ezwebin/images" md5sum="741710c029a6ab85183be2f92a6cbd70"/>
+  <file name="img_caption_bg.png" path="/design/ezwebin/images" md5sum="d530e7c0f7e915cadef3dc718f1ba6ec"/>
+  <file name="topmenu_bg.png" path="/design/ezwebin/images" md5sum="2080fa89bf94ed9fa9b015a72421f5d8"/>
+  <file name="separator.jpg" path="/design/ezwebin/images" md5sum="d5f7f229dda3c5e4ec70ebd7fecd8853"/>
+  <file name="infobox" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="border-bl.gif" path="/design/ezwebin/images/infobox" md5sum="444cd93357da0aeb48596eb7be4f5cd9"/>
+  <file name="border-bc.gif" path="/design/ezwebin/images/infobox" md5sum="53fca32f8b3841f109357ba3165a3594"/>
+  <file name="border-ml.gif" path="/design/ezwebin/images/infobox" md5sum="a95ee781d54f3b43f19c4989c83bb77d"/>
+  <file name="border-mr.gif" path="/design/ezwebin/images/infobox" md5sum="a95ee781d54f3b43f19c4989c83bb77d"/>
+  <file name="border-mc.gif" path="/design/ezwebin/images/infobox" md5sum="aa9d6053c32e9660dcdb96274786fe91"/>
+  <file name="border-br.gif" path="/design/ezwebin/images/infobox" md5sum="14f81f5e97f0c65cb3bd1a4c9e3302f8"/>
+  <file name="border-tl.gif" path="/design/ezwebin/images/infobox" md5sum="dfb10a7c20540c6359fe05430a9c26e7"/>
+  <file name="border-tr.gif" path="/design/ezwebin/images/infobox" md5sum="42597ddb4b88c865b11bea0aac50fd7b"/>
+  <file name="border-tc.gif" path="/design/ezwebin/images/infobox" md5sum="04d4c4782e95588405fcd30b8b43367d"/>
+  <file name="topmenu_bg_selected.png" path="/design/ezwebin/images" md5sum="7945ad17c5d4100a2b4c119903a72b33"/>
+  <file name="infobox-header" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="border-bl.gif" path="/design/ezwebin/images/infobox-header" md5sum="8a9a7aaf13ee87ca525ba17ce810e2ee"/>
+  <file name="border-bc.gif" path="/design/ezwebin/images/infobox-header" md5sum="ba7641ed95785e52d5942ffaed554899"/>
+  <file name="border-ml.gif" path="/design/ezwebin/images/infobox-header" md5sum="a95ee781d54f3b43f19c4989c83bb77d"/>
+  <file name="border-mr.gif" path="/design/ezwebin/images/infobox-header" md5sum="a95ee781d54f3b43f19c4989c83bb77d"/>
+  <file name="border-mc.gif" path="/design/ezwebin/images/infobox-header" md5sum="d185acd6599ac381243b94a5a8fbba0d"/>
+  <file name="border-br.gif" path="/design/ezwebin/images/infobox-header" md5sum="428872f12aef3d86e99c6fe76a5333f5"/>
+  <file name="border-tl.gif" path="/design/ezwebin/images/infobox-header" md5sum="bf9ee61e09bded327c47c156a33c7fc5"/>
+  <file name="border-tr.gif" path="/design/ezwebin/images/infobox-header" md5sum="d51beb6abd5740b8d12ebd963ac647ad"/>
+  <file name="border-tc.gif" path="/design/ezwebin/images/infobox-header" md5sum="a05659fddb0ec0a42ace07696810739e"/>
+  <file name="box-3" path="/design/ezwebin/images" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="border-bl.gif" path="/design/ezwebin/images/box-3" md5sum="d757fce7f395e56117372d8bda6fcb5b"/>
+  <file name="border-bc.gif" path="/design/ezwebin/images/box-3" md5sum="c26873ad34f9862d3199cbe8d95e3d14"/>
+  <file name="border-ml.gif" path="/design/ezwebin/images/box-3" md5sum="70f5710ed4395c96daba318e3eb9d9e8"/>
+  <file name="border-mr.gif" path="/design/ezwebin/images/box-3" md5sum="70f5710ed4395c96daba318e3eb9d9e8"/>
+  <file name="border-mc.gif" path="/design/ezwebin/images/box-3" md5sum="c8f1d0f46c26eb37557cce8ed0e65ea6"/>
+  <file name="border-br.gif" path="/design/ezwebin/images/box-3" md5sum="3476b5a81b6cc47beaf57a65c5e40d32"/>
+  <file name="border-tl.gif" path="/design/ezwebin/images/box-3" md5sum="dfb10a7c20540c6359fe05430a9c26e7"/>
+  <file name="border-tr.gif" path="/design/ezwebin/images/box-3" md5sum="42597ddb4b88c865b11bea0aac50fd7b"/>
+  <file name="border-tc.gif" path="/design/ezwebin/images/box-3" md5sum="04d4c4782e95588405fcd30b8b43367d"/>
+  <file name="templates" path="/design/ezwebin" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="user" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="register.tpl" path="/design/ezwebin/templates/user" md5sum="38e1205ab579ed7f8b96a9174bbed3e5"/>
+  <file name="edit.tpl" path="/design/ezwebin/templates/user" md5sum="d46b98b00533e84959c0a02959013587"/>
+  <file name="login.tpl" path="/design/ezwebin/templates/user" md5sum="4c78988e4c0341d26306c8d0e8d2fba2"/>
+  <file name="forgotpassword.tpl" path="/design/ezwebin/templates/user" md5sum="8abe536c539665347866419201774045"/>
+  <file name="password.tpl" path="/design/ezwebin/templates/user" md5sum="8546a9f750eb001f7d8dc979fdfd509c"/>
+  <file name="success.tpl" path="/design/ezwebin/templates/user" md5sum="63cacdd61189fc8eb9362e20c13be28f"/>
+  <file name="activate.tpl" path="/design/ezwebin/templates/user" md5sum="638e6d84106f131bc9bb0868c0c82988"/>
+  <file name="ezodf" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="browse_place.tpl" path="/design/ezwebin/templates/ezodf" md5sum="1c407af4e862a38b9e32abe9ec42bd6b"/>
+  <file name="export.tpl" path="/design/ezwebin/templates/ezodf" md5sum="e81f77b1cb3467fc16405ddc422551b8"/>
+  <file name="import.tpl" path="/design/ezwebin/templates/ezodf" md5sum="e90503ac89109138640da0f46e95c92b"/>
+  <file name="page_mainarea.tpl" path="/design/ezwebin/templates" md5sum="1a9e59c2be843dfb2f8c1c79849d5e63"/>
+  <file name="pagelayout.tpl" path="/design/ezwebin/templates" md5sum="0847838ea1c7de49c4b2258a1bd83a1d"/>
+  <file name="link.tpl" path="/design/ezwebin/templates" md5sum="45b57aa7ab662da501c277085d3bee0e"/>
+  <file name="page_head_style.tpl" path="/design/ezwebin/templates" md5sum="e66e3dc3111a02f4fa1159be1c7c564a"/>
+  <file name="page_extramenu.tpl" path="/design/ezwebin/templates" md5sum="151ba7264b16c9572708a4657bb60826"/>
+  <file name="page_toppath.tpl" path="/design/ezwebin/templates" md5sum="882b261928447449d3144840a45cb12c"/>
+  <file name="page_header.tpl" path="/design/ezwebin/templates" md5sum="69f423c538fc32c77c2d1797c9e1f86b"/>
+  <file name="canonical_link.tpl" path="/design/ezwebin/templates" md5sum="819899c12d1a0918d44563a7987e23a0"/>
+  <file name="state" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="assign.tpl" path="/design/ezwebin/templates/state" md5sum="c60fce035d19b2c969a7df3ac16f6c24"/>
+  <file name="notification" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="addingresult.tpl" path="/design/ezwebin/templates/notification" md5sum="5c41b2550e54eb1bae9a5479f3bcb979"/>
+  <file name="settings.tpl" path="/design/ezwebin/templates/notification" md5sum="e9d0c8301c5a47579484ac388a5889d8"/>
+  <file name="handler" path="/design/ezwebin/templates/notification" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezsubtree" path="/design/ezwebin/templates/notification/handler" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="settings" path="/design/ezwebin/templates/notification/handler/ezsubtree" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="edit.tpl" path="/design/ezwebin/templates/notification/handler/ezsubtree/settings" md5sum="fba1a24cbf3acab2cdfa7102e6ac8aa5"/>
+  <file name="ezgeneraldigest" path="/design/ezwebin/templates/notification/handler" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="settings" path="/design/ezwebin/templates/notification/handler/ezgeneraldigest" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="edit.tpl" path="/design/ezwebin/templates/notification/handler/ezgeneraldigest/settings" md5sum="f05dfb45f93d9bf7ac265255afeba135"/>
+  <file name="page_footer_script.tpl" path="/design/ezwebin/templates" md5sum="3ad1197e484dd9f161264c4dde7526d5"/>
+  <file name="page_head_script.tpl" path="/design/ezwebin/templates" md5sum="8d10febf9913111ecfb469ed7571b7a2"/>
+  <file name="page_toolbar.tpl" path="/design/ezwebin/templates" md5sum="33abff4c84518d6c951cc00e7dff9688"/>
+  <file name="simplified_treemenu" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="show_simplified_menu.tpl" path="/design/ezwebin/templates/simplified_treemenu" md5sum="2b07b50d09e616a743aa31627e127ba7"/>
+  <file name="page_header_links.tpl" path="/design/ezwebin/templates" md5sum="42855e14cc0cd5b3c2316e188a228944"/>
+  <file name="rss" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="list.tpl" path="/design/ezwebin/templates/rss" md5sum="afe3e5aad993a3ff64d6265285fdca47"/>
+  <file name="edit_import.tpl" path="/design/ezwebin/templates/rss" md5sum="557a2eb3348775aac21f8f791feab646"/>
+  <file name="edit_export.tpl" path="/design/ezwebin/templates/rss" md5sum="044a560ed2c23985248dcde4e1c6ddfe"/>
+  <file name="shop" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="confirmorder.tpl" path="/design/ezwebin/templates/shop" md5sum="807c1df2c4be7b8b9cd310797a5d7347"/>
+  <file name="userregister.tpl" path="/design/ezwebin/templates/shop" md5sum="ff79560bcf29607fc5fdfe59cd0aa5eb"/>
+  <file name="orderlist.tpl" path="/design/ezwebin/templates/shop" md5sum="afab4d520dd335dfccd2145ef36a5a69"/>
+  <file name="orderview.tpl" path="/design/ezwebin/templates/shop" md5sum="cd4256af5b4a0d0daf7ceee3dbd833a6"/>
+  <file name="customerorderview.tpl" path="/design/ezwebin/templates/shop" md5sum="a995763fb9eaa7eb42e3a9694c0abff8"/>
+  <file name="basket.tpl" path="/design/ezwebin/templates/shop" md5sum="17b5983b4493acb0ce453f700a076d4d"/>
+  <file name="wishlist.tpl" path="/design/ezwebin/templates/shop" md5sum="c9265d9764c9bbcadc89c0929c2100f5"/>
+  <file name="page_footer.tpl" path="/design/ezwebin/templates" md5sum="78a17d602472013a20eede477d554b2e"/>
+  <file name="page_topmenu.tpl" path="/design/ezwebin/templates" md5sum="5d7f9bf221afb1cf708dd0fb42db1edb"/>
+  <file name="page_header_logo.tpl" path="/design/ezwebin/templates" md5sum="bf6220a10187ee26751d94c4e9e1a74b"/>
+  <file name="page_head.tpl" path="/design/ezwebin/templates" md5sum="3aaee4ffdf335841f27eb8e3d1523f88"/>
+  <file name="content" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="draft.tpl" path="/design/ezwebin/templates/content" md5sum="ed1ffb2596a1f4fd399258b0d736400a"/>
+  <file name="edit.tpl" path="/design/ezwebin/templates/content" md5sum="6119a7eb08c9ad85c7e67fa513074bed"/>
+  <file name="collectedinfo" path="/design/ezwebin/templates/content" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="form.tpl" path="/design/ezwebin/templates/content/collectedinfo" md5sum="5119d8149e567564425589e29183af39"/>
+  <file name="poll.tpl" path="/design/ezwebin/templates/content/collectedinfo" md5sum="7cd16a1e6c484861097ef23a9cf986d4"/>
+  <file name="edit_languages.tpl" path="/design/ezwebin/templates/content" md5sum="29be98ad1cb1b818ee0530e4363314f3"/>
+  <file name="view" path="/design/ezwebin/templates/content" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="billboard.tpl" path="/design/ezwebin/templates/content/view" md5sum="64303e8792b500e34ab356c6979b56b5"/>
+  <file name="versionview.tpl" path="/design/ezwebin/templates/content/view" md5sum="734e2513a0e608c225d2a51acf5e8423"/>
+  <file name="pendinglist.tpl" path="/design/ezwebin/templates/content" md5sum="fb42b26c30d07be5f7628f62eba99b33"/>
+  <file name="browse_mode_list.tpl" path="/design/ezwebin/templates/content" md5sum="327447c3fcd7a5fba616860317c35a22"/>
+  <file name="datatype" path="/design/ezwebin/templates/content" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="view" path="/design/ezwebin/templates/content/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezauthor.tpl" path="/design/ezwebin/templates/content/datatype/view" md5sum="2651c44b1eeb3d3de2916526c88f3ce2"/>
+  <file name="ezbinaryfile.tpl" path="/design/ezwebin/templates/content/datatype/view" md5sum="8cabcc2084b56ccf4571f0e04383475a"/>
+  <file name="ezmultioption.tpl" path="/design/ezwebin/templates/content/datatype/view" md5sum="eef5ba2248b711a6e0f0e9e7309d5770"/>
+  <file name="ezprice.tpl" path="/design/ezwebin/templates/content/datatype/view" md5sum="cae8d167a3db24e03119051e84843d3b"/>
+  <file name="ezmedia.tpl" path="/design/ezwebin/templates/content/datatype/view" md5sum="71715641fbc3529a2cd07b9bf7ba2ae3"/>
+  <file name="ezxmltags" path="/design/ezwebin/templates/content/datatype/view" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="separator.tpl" path="/design/ezwebin/templates/content/datatype/view/ezxmltags" md5sum="b86aa8e853d8e10a5f46cd697594f50a"/>
+  <file name="tr.tpl" path="/design/ezwebin/templates/content/datatype/view/ezxmltags" md5sum="fe6a698beeb06807964f445bd96c9175"/>
+  <file name="video.tpl" path="/design/ezwebin/templates/content/datatype/view/ezxmltags" md5sum="277d74982d5cb5f1b06ea1d8b6ff3e6c"/>
+  <file name="paragraph.tpl" path="/design/ezwebin/templates/content/datatype/view/ezxmltags" md5sum="d27b0897bb5c5240a0db8daf5f0b706d"/>
+  <file name="edit" path="/design/ezwebin/templates/content/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezdate.tpl" path="/design/ezwebin/templates/content/datatype/edit" md5sum="7bc6bc0bff0a49a6822e7c402bfa5da0"/>
+  <file name="ezdatetime.tpl" path="/design/ezwebin/templates/content/datatype/edit" md5sum="4eff7331bfd7307cccd08d7e8a4a8797"/>
+  <file name="advancedsearch.tpl" path="/design/ezwebin/templates/content" md5sum="c05006c256d73026fdd7e2e51e50c025"/>
+  <file name="keyword.tpl" path="/design/ezwebin/templates/content" md5sum="0abeac99296bdd083111694c2daa4f16"/>
+  <file name="edit_attribute.tpl" path="/design/ezwebin/templates/content" md5sum="3cf3afa0a0b94938a983277005b9a4a6"/>
+  <file name="search.tpl" path="/design/ezwebin/templates/content" md5sum="dabfa2edb3058a3811df8d91a3971f9e"/>
+  <file name="edit_draft.tpl" path="/design/ezwebin/templates/content" md5sum="ba29cd7c414c65213cf7b538fcfd6b6a"/>
+  <file name="history.tpl" path="/design/ezwebin/templates/content" md5sum="674373db2dfe7c9d125d50d6d9baef53"/>
+  <file name="collectedinfomail" path="/design/ezwebin/templates/content" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="form.tpl" path="/design/ezwebin/templates/content/collectedinfomail" md5sum="4db440602ff4587652bcb6a5b916b4dd"/>
+  <file name="feedback.tpl" path="/design/ezwebin/templates/content/collectedinfomail" md5sum="61222834acc92c29e4b6286ba65d17e4"/>
+  <file name="browse.tpl" path="/design/ezwebin/templates/content" md5sum="e7361c9822ac7fde6107bc5835fc0212"/>
+  <file name="tipafriend.tpl" path="/design/ezwebin/templates/content" md5sum="58de3c3ffe7756c7a315a55aebd35012"/>
+  <file name="tagcloud" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="tagcloud.tpl" path="/design/ezwebin/templates/tagcloud" md5sum="8f11b63f8c62630473cb556ef6929222"/>
+  <file name="page_header_languages.tpl" path="/design/ezwebin/templates" md5sum="1f1aaa0a2eb23433f7fa9277c73ccad0"/>
+  <file name="full" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="event_view_calendar.tpl" path="/design/ezwebin/templates/full" md5sum="30959942607c800ccd62f6ae28cf7e20"/>
+  <file name="event_view_program.tpl" path="/design/ezwebin/templates/full" md5sum="5d5bf1422c7dfcec8bdb10e1709a263f"/>
+  <file name="node" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="view" path="/design/ezwebin/templates/node" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="embed.tpl" path="/design/ezwebin/templates/node/view" md5sum="308d453ea7232eaf59e4e02f5a000595"/>
+  <file name="full.tpl" path="/design/ezwebin/templates/node/view" md5sum="8fe8afe8ef549d622ce1fb671ebe6d74"/>
+  <file name="sitemap.tpl" path="/design/ezwebin/templates/node/view" md5sum="35477c0dc17513f65e642fc543d814da"/>
+  <file name="tagcloud.tpl" path="/design/ezwebin/templates/node/view" md5sum="7ab4a4a3bf0ebd36cf26d25103c2236d"/>
+  <file name="listitemnews.tpl" path="/design/ezwebin/templates/node/view" md5sum="02ef26264e2dbb8b2cae143e2a91ddd4"/>
+  <file name="productitem.tpl" path="/design/ezwebin/templates/node/view" md5sum="b44f5db6d5a6e75ad1c4908255c78081"/>
+  <file name="infobox.tpl" path="/design/ezwebin/templates/node/view" md5sum="79fd1b0304d289500d643c9160097f77"/>
+  <file name="line.tpl" path="/design/ezwebin/templates/node/view" md5sum="e054fb6121292956da463d651477a519"/>
+  <file name="removeobject.tpl" path="/design/ezwebin/templates/node" md5sum="514b61d17368cf5eee9552d3d2f94ae2"/>
+  <file name="page_header_searchbox.tpl" path="/design/ezwebin/templates" md5sum="9ca3d427032e90a86fcc2b6b3f2d42e8"/>
+  <file name="parts" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="websitetoolbar" path="/design/ezwebin/templates/parts" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="rss.tpl" path="/design/ezwebin/templates/parts/websitetoolbar" md5sum="5db618f92b235e2c074fd3afcec6df5e"/>
+  <file name="display_related_content.tpl" path="/design/ezwebin/templates/parts" md5sum="1cb9bf14a3b44fe3576b478f3247a1dc"/>
+  <file name="image" path="/design/ezwebin/templates/parts" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="display_related_content.tpl" path="/design/ezwebin/templates/parts/image" md5sum="941abf94538e892ac6e2c843d94a0c3d"/>
+  <file name="related_content.tpl" path="/design/ezwebin/templates/parts/image" md5sum="62c2da5d4ab5e7211d646ca2eee5efc3"/>
+  <file name="related_content.tpl" path="/design/ezwebin/templates/parts" md5sum="5b564954b5eea31fbf4e8687d2225489"/>
+  <file name="extra_info.tpl" path="/design/ezwebin/templates/parts" md5sum="dfbf3fa4f9bae1694d26b4100ad11037"/>
+  <file name="path.tpl" path="/design/ezwebin/templates/parts" md5sum="3183c5ec17d9b88810cbbf298e95da2c"/>
+  <file name="article" path="/design/ezwebin/templates/parts" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="comments.tpl" path="/design/ezwebin/templates/parts/article" md5sum="7a9f20b0f86b392ad7f2bb011d753333"/>
+  <file name="page_navigator.tpl" path="/design/ezwebin/templates/parts/article" md5sum="3bdc12f4d8c08961f1993c1b4c3a07d3"/>
+  <file name="article_index.tpl" path="/design/ezwebin/templates/parts/article" md5sum="1a10041b975102af9eca5d3921859c41"/>
+  <file name="blog" path="/design/ezwebin/templates/parts" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="extra_info.tpl" path="/design/ezwebin/templates/parts/blog" md5sum="991126c8d99a25674a2eb064941cc514"/>
+  <file name="calendar.tpl" path="/design/ezwebin/templates/parts/blog" md5sum="839bebcd47cdd6894c0a809d235cef20"/>
+  <file name="menu" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="flat_top.tpl" path="/design/ezwebin/templates/menu" md5sum="3d46c897203ea30927dd829d66c54727"/>
+  <file name="flat_left.tpl" path="/design/ezwebin/templates/menu" md5sum="2cf358cf9c8fc1b1f21527da8e228771"/>
+  <file name="double_top.tpl" path="/design/ezwebin/templates/menu" md5sum="ddf685f2bc5f557bcc40967173a092fe"/>
+  <file name="page_leftmenu.tpl" path="/design/ezwebin/templates" md5sum="509dab2d6f6e109ff199184a9773da81"/>
+  <file name="ezinfo" path="/design/ezwebin/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="about.tpl" path="/design/ezwebin/templates/ezinfo" md5sum="f5fc2c19ad3e02dbaa55bacd9c4cb80c"/>
+  <file name="javascript" path="/design/ezwebin" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="heightresize.js" path="/design/ezwebin/javascript" md5sum="d73b2aa68cf2880917438da29bf5baeb"/>
+  <file name="insertmedia.js" path="/design/ezwebin/javascript" md5sum="628425e2845f1e47494ca1b4c23b2c8a"/>
+  <file name="override" path="/design/ezwebin" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="templates" path="/design/ezwebin/override" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="embed-inline" path="/design/ezwebin/override/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="image.tpl" path="/design/ezwebin/override/templates/embed-inline" md5sum="6398d8a4460941490fc19a7d9dd41ac6"/>
+  <file name="itemizedsubitems" path="/design/ezwebin/override/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="forum.tpl" path="/design/ezwebin/override/templates/itemizedsubitems" md5sum="908395900c153639deadff2a4a90f0ac"/>
+  <file name="gallery.tpl" path="/design/ezwebin/override/templates/itemizedsubitems" md5sum="85fc9ca9f55f6bd51a6b7f268d62d134"/>
+  <file name="documentation_page.tpl" path="/design/ezwebin/override/templates/itemizedsubitems" md5sum="d990743396980137081d24720e515c65"/>
+  <file name="event_calendar.tpl" path="/design/ezwebin/override/templates/itemizedsubitems" md5sum="dfc620143d8356fd5859465b70bd5684"/>
+  <file name="folder.tpl" path="/design/ezwebin/override/templates/itemizedsubitems" md5sum="a90deaa8a1e78e0cbe08b0162c892d74"/>
+  <file name="itemized_sub_items.tpl" path="/design/ezwebin/override/templates/itemizedsubitems" md5sum="2b791f1f6ad728f75a9538f61de65177"/>
+  <file name="datatype" path="/design/ezwebin/override/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezxmltext" path="/design/ezwebin/override/templates/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="table_cols.tpl" path="/design/ezwebin/override/templates/datatype/ezxmltext" md5sum="4bc2af110734a9771d49ba2440e78df5"/>
+  <file name="quote.tpl" path="/design/ezwebin/override/templates/datatype/ezxmltext" md5sum="f3362fcaa8acc3b9d7183566f7191ec2"/>
+  <file name="children_menu.tpl" path="/design/ezwebin/override/templates/datatype/ezxmltext" md5sum="1f96eeeb96a2348cdfd011154a4bc5c9"/>
+  <file name="table_comparison.tpl" path="/design/ezwebin/override/templates/datatype/ezxmltext" md5sum="60a09ee8c720ef0b379947b9309a089f"/>
+  <file name="factbox.tpl" path="/design/ezwebin/override/templates/datatype/ezxmltext" md5sum="62cc1fb9f0e31d2988cba69dfd9a089d"/>
+  <file name="edit" path="/design/ezwebin/override/templates/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="forum_topic.tpl" path="/design/ezwebin/override/templates/datatype/edit" md5sum="f1c3ceeb98d98f5de160f9ae545f3451"/>
+  <file name="listitem" path="/design/ezwebin/override/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="image.tpl" path="/design/ezwebin/override/templates/listitem" md5sum="2989d063d0fffb53bab61f3dcd19bc51"/>
+  <file name="article.tpl" path="/design/ezwebin/override/templates/listitem" md5sum="ee921a1d24776e8e22f8adf262dd29c7"/>
+  <file name="galleryslide" path="/design/ezwebin/override/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="image.tpl" path="/design/ezwebin/override/templates/galleryslide" md5sum="27c7496dd3d0d99a4f48677aaa4b800f"/>
+  <file name="billboard" path="/design/ezwebin/override/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="banner.tpl" path="/design/ezwebin/override/templates/billboard" md5sum="0f92aeee9d7990ec00955db8266e5ea6"/>
+  <file name="flash.tpl" path="/design/ezwebin/override/templates/billboard" md5sum="3c28dcfef6818ad9171bea7973dadf3a"/>
+  <file name="edit" path="/design/ezwebin/override/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="file.tpl" path="/design/ezwebin/override/templates/edit" md5sum="f75cd6b1a68ab53b89c2ae8fc02ed788"/>
+  <file name="forum_topic.tpl" path="/design/ezwebin/override/templates/edit" md5sum="4cd719ae8cd2f6d8d7278f330f15c24e"/>
+  <file name="forum_reply.tpl" path="/design/ezwebin/override/templates/edit" md5sum="5b01929b3c387c8356ff9663c5a44df7"/>
+  <file name="comment.tpl" path="/design/ezwebin/override/templates/edit" md5sum="6900d407e75e198080bba86f7a17c52b"/>
+  <file name="line" path="/design/ezwebin/override/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="forum.tpl" path="/design/ezwebin/override/templates/line" md5sum="a815f84e2a0ac88626ce6f2607913e87"/>
+  <file name="geo_article.tpl" path="/design/ezwebin/override/templates/line" md5sum="434d6c5735137529b09b9ebed67fe099"/>
+  <file name="link.tpl" path="/design/ezwebin/override/templates/line" md5sum="6f6bd86df7580ce0a11585f33aa0bf3f"/>
+  <file name="article_subpage.tpl" path="/design/ezwebin/override/templates/line" md5sum="f09404ed4d2fe1dc6cc95ec23f60c0ad"/>
+  <file name="file.tpl" path="/design/ezwebin/override/templates/line" md5sum="3fbeafe72ebf6dafa5c5b0c4ccd302aa"/>
+  <file name="image.tpl" path="/design/ezwebin/override/templates/line" md5sum="4f57cc823bd0d6aa1dae1f05581eb96d"/>
+  <file name="forums.tpl" path="/design/ezwebin/override/templates/line" md5sum="5360db79d77559fe45a7c35ce7bf365b"/>
+  <file name="windows_media.tpl" path="/design/ezwebin/override/templates/line" md5sum="886ed2d8edbd6974430dc5f237b286a9"/>
+  <file name="event.tpl" path="/design/ezwebin/override/templates/line" md5sum="4334989c5bde17c867ec8424ab80a72b"/>
+  <file name="blog.tpl" path="/design/ezwebin/override/templates/line" md5sum="5ab188919c82ebd2df53195bc45e33d4"/>
+  <file name="multicalendar.tpl" path="/design/ezwebin/override/templates/line" md5sum="30da5178b46dbc380b6e8d1c600b19f1"/>
+  <file name="forum_topic.tpl" path="/design/ezwebin/override/templates/line" md5sum="5bfdc87dded0456f9cf1c174480c791f"/>
+  <file name="article_mainpage.tpl" path="/design/ezwebin/override/templates/line" md5sum="282bf1a845887d6ad45a909d0b999d47"/>
+  <file name="quicktime.tpl" path="/design/ezwebin/override/templates/line" md5sum="4a10d9a92e5c32c01a9758b0eb1f4f66"/>
+  <file name="poll.tpl" path="/design/ezwebin/override/templates/line" md5sum="95dadba5b3c2871a143e46abe023126a"/>
+  <file name="silverlight.tpl" path="/design/ezwebin/override/templates/line" md5sum="8d84141651c498ea582b2464947f4671"/>
+  <file name="gallery.tpl" path="/design/ezwebin/override/templates/line" md5sum="ed03b8810f4b780bf68c0eb36fb19b50"/>
+  <file name="documentation_page.tpl" path="/design/ezwebin/override/templates/line" md5sum="3e6998a6ba6107e0330828eb87be336d"/>
+  <file name="event_calendar.tpl" path="/design/ezwebin/override/templates/line" md5sum="3837e5ce606a61c62496103d9bf47b16"/>
+  <file name="blog_post.tpl" path="/design/ezwebin/override/templates/line" md5sum="67d6cff43ab6f86fc1b6a962817d3d57"/>
+  <file name="banner.tpl" path="/design/ezwebin/override/templates/line" md5sum="76e131107d69d532d64c2de765d5b414"/>
+  <file name="folder.tpl" path="/design/ezwebin/override/templates/line" md5sum="143137c6191686fabf2dc3bbbba997ca"/>
+  <file name="forum_reply.tpl" path="/design/ezwebin/override/templates/line" md5sum="bddaefa58a21dafa576e7d87de6d8db6"/>
+  <file name="real_video.tpl" path="/design/ezwebin/override/templates/line" md5sum="227965c21d3c17bdb44f1a76a72878de"/>
+  <file name="comment.tpl" path="/design/ezwebin/override/templates/line" md5sum="0f20af7b8aee22b599b09627fe0bea9b"/>
+  <file name="feedback_form.tpl" path="/design/ezwebin/override/templates/line" md5sum="cb594e82ca2d96dd46ff2dfe319007b8"/>
+  <file name="product.tpl" path="/design/ezwebin/override/templates/line" md5sum="417977e1e2a7b0b20e7a7cab503ebfdd"/>
+  <file name="flash.tpl" path="/design/ezwebin/override/templates/line" md5sum="96571b745730a51a72e164c255c86aac"/>
+  <file name="article.tpl" path="/design/ezwebin/override/templates/line" md5sum="7712b754a6779bea874c121d505e8a55"/>
+  <file name="infobox.tpl" path="/design/ezwebin/override/templates/line" md5sum="a099d89d96d8480725d73cddf9a383fc"/>
+  <file name="embed" path="/design/ezwebin/override/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="forum.tpl" path="/design/ezwebin/override/templates/embed" md5sum="046a7124f0d0312df11d53fbc2c904c6"/>
+  <file name="file.tpl" path="/design/ezwebin/override/templates/embed" md5sum="657d39a0988ffdda72018911e8c80712"/>
+  <file name="image.tpl" path="/design/ezwebin/override/templates/embed" md5sum="bdc94f460ba88ad554f9963cb3f9f3f9"/>
+  <file name="horizontally_listed_sub_items.tpl" path="/design/ezwebin/override/templates/embed" md5sum="4e6ab3306b22289800217701bc137579"/>
+  <file name="itemized_subtree_items.tpl" path="/design/ezwebin/override/templates/embed" md5sum="a1f3a7dab5c0d3fd28485a77581eef72"/>
+  <file name="windows_media.tpl" path="/design/ezwebin/override/templates/embed" md5sum="84801a2c6b7c305a427ccf48bbddf87b"/>
+  <file name="vertically_listed_sub_items.tpl" path="/design/ezwebin/override/templates/embed" md5sum="c5af6835d2681f17cd8a519186b74652"/>
+  <file name="folder_products.tpl" path="/design/ezwebin/override/templates/embed" md5sum="4c091978fdf217b9ad39102f611b6916"/>
+  <file name="highlighted_object.tpl" path="/design/ezwebin/override/templates/embed" md5sum="5f34c79e0872d0b47ae0479cbde8b5e1"/>
+  <file name="quicktime.tpl" path="/design/ezwebin/override/templates/embed" md5sum="a6dc3102ae77c9d06f23f0bf386e7687"/>
+  <file name="poll.tpl" path="/design/ezwebin/override/templates/embed" md5sum="119a1d0fe840168d03e51ee45129a83d"/>
+  <file name="gallery.tpl" path="/design/ezwebin/override/templates/embed" md5sum="cb491cf417250af881d729a539599cb2"/>
+  <file name="event_calendar.tpl" path="/design/ezwebin/override/templates/embed" md5sum="4d32b1d5d7f83b8a8f9acf6cae7b2e71"/>
+  <file name="banner.tpl" path="/design/ezwebin/override/templates/embed" md5sum="aa6a4d6d97fba339512772a0946a74fa"/>
+  <file name="folder.tpl" path="/design/ezwebin/override/templates/embed" md5sum="faf2dbd26455ee1c4a5d2c422391388a"/>
+  <file name="real_video.tpl" path="/design/ezwebin/override/templates/embed" md5sum="fdf7ecf96d6255c63300d73c388870be"/>
+  <file name="product.tpl" path="/design/ezwebin/override/templates/embed" md5sum="ac40add0e61772d0095b4dcaa81938d0"/>
+  <file name="flash.tpl" path="/design/ezwebin/override/templates/embed" md5sum="48e1fc60bf8b0dbd0e4a21cdbbdcb6dd"/>
+  <file name="article.tpl" path="/design/ezwebin/override/templates/embed" md5sum="76d7f19de6ad9a617ca8d14133e23e1f"/>
+  <file name="itemized_sub_items.tpl" path="/design/ezwebin/override/templates/embed" md5sum="ca1a6784a462ab0f5bdc09e8649325aa"/>
+  <file name="full" path="/design/ezwebin/override/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="forum.tpl" path="/design/ezwebin/override/templates/full" md5sum="1d8086be16ea2b368ede23340dae52aa"/>
+  <file name="geo_article.tpl" path="/design/ezwebin/override/templates/full" md5sum="0452f8139ade0c25d6503e0799e93e3a"/>
+  <file name="link.tpl" path="/design/ezwebin/override/templates/full" md5sum="ffc4493ab7eba3aabf78f500dfbe51fa"/>
+  <file name="article_subpage.tpl" path="/design/ezwebin/override/templates/full" md5sum="af4a999ff48f9b6f34d9a809cab0dbb9"/>
+  <file name="file.tpl" path="/design/ezwebin/override/templates/full" md5sum="a8a690a7164e3ac2cf8228e2260081a0"/>
+  <file name="image.tpl" path="/design/ezwebin/override/templates/full" md5sum="8944658a3e1200e5f335eb3415d69a07"/>
+  <file name="forums.tpl" path="/design/ezwebin/override/templates/full" md5sum="4169589046ffc7cc0e882bc256950e79"/>
+  <file name="windows_media.tpl" path="/design/ezwebin/override/templates/full" md5sum="d9f366d658cb1f2f159d93ab61ac5029"/>
+  <file name="event.tpl" path="/design/ezwebin/override/templates/full" md5sum="82dd7d5b52e53adbd62c178a55a3a737"/>
+  <file name="blog.tpl" path="/design/ezwebin/override/templates/full" md5sum="f853a995cfb711b747f390c9694ee337"/>
+  <file name="multicalendar.tpl" path="/design/ezwebin/override/templates/full" md5sum="8e9bcb4fc42690cc271349a812cd12ce"/>
+  <file name="forum_topic.tpl" path="/design/ezwebin/override/templates/full" md5sum="6a8a175b7459d372e6abc898af54d10e"/>
+  <file name="article_mainpage.tpl" path="/design/ezwebin/override/templates/full" md5sum="4b78ceb5ba6ff690ee6016af3c8e505c"/>
+  <file name="quicktime.tpl" path="/design/ezwebin/override/templates/full" md5sum="dd6f451e446d9d9123923130e69583db"/>
+  <file name="poll.tpl" path="/design/ezwebin/override/templates/full" md5sum="0896dd1f13b126e3833adc7e907ca10e"/>
+  <file name="silverlight.tpl" path="/design/ezwebin/override/templates/full" md5sum="3edf3ec783f1dcfcd6fa46e8162fd7af"/>
+  <file name="gallery.tpl" path="/design/ezwebin/override/templates/full" md5sum="b52e497411fa13a0aa604ff106cedacf"/>
+  <file name="documentation_page.tpl" path="/design/ezwebin/override/templates/full" md5sum="70ea0957dde2f174f9440b14f642024c"/>
+  <file name="event_calendar.tpl" path="/design/ezwebin/override/templates/full" md5sum="83344a1c5dd8827cf643dfa84a45134f"/>
+  <file name="blog_post.tpl" path="/design/ezwebin/override/templates/full" md5sum="1f1de638560c547a8ea738d9f18f984a"/>
+  <file name="banner.tpl" path="/design/ezwebin/override/templates/full" md5sum="1774613294ddcf88d43057d26e45d8a1"/>
+  <file name="folder.tpl" path="/design/ezwebin/override/templates/full" md5sum="dabe11ad61f00116e0d74d2dcbdafc0a"/>
+  <file name="forum_reply.tpl" path="/design/ezwebin/override/templates/full" md5sum="81a57168c2c4a2e6a124af0c590636eb"/>
+  <file name="frontpage.tpl" path="/design/ezwebin/override/templates/full" md5sum="02fab623c4a81fb7fe9a032e30b07c35"/>
+  <file name="real_video.tpl" path="/design/ezwebin/override/templates/full" md5sum="5e30e027354562ec8273d8a8b0b6decb"/>
+  <file name="comment.tpl" path="/design/ezwebin/override/templates/full" md5sum="4e0762b9fc5833d46a305b7ed3de2469"/>
+  <file name="feedback_form.tpl" path="/design/ezwebin/override/templates/full" md5sum="2073079ab1157dfb459cde17366bc6cb"/>
+  <file name="product.tpl" path="/design/ezwebin/override/templates/full" md5sum="9778f2cdc401f72cfe5df08aecb2b70a"/>
+  <file name="flash.tpl" path="/design/ezwebin/override/templates/full" md5sum="a25cc40bb2a3ebf52810fd33f4e245ad"/>
+  <file name="article.tpl" path="/design/ezwebin/override/templates/full" md5sum="d4954536d982acbc3c32bdf30291288b"/>
+  <file name="infobox.tpl" path="/design/ezwebin/override/templates/full" md5sum="8581a97f539f9712b6b11d3113462ec0"/>
+  <file name="galleryline" path="/design/ezwebin/override/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="image.tpl" path="/design/ezwebin/override/templates/galleryline" md5sum="f8376ff509db41ff7fb1b82e5b120b1d"/>
+  <file name="flash_player.tpl" path="/design/ezwebin/override/templates/galleryline" md5sum="8e2dfbd1f03281235306ee861b5a61ca"/>
+  <file name="horizontallylistedsubitems" path="/design/ezwebin/override/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="image.tpl" path="/design/ezwebin/override/templates/horizontallylistedsubitems" md5sum="546dbf9c5dc20d413126f62c8d429c75"/>
+  <file name="event.tpl" path="/design/ezwebin/override/templates/horizontallylistedsubitems" md5sum="09037ab31a4ff72b483f39752042ee9c"/>
+  <file name="product.tpl" path="/design/ezwebin/override/templates/horizontallylistedsubitems" md5sum="5b9b0f4423eeb43fc0504824e321130e"/>
+  <file name="article.tpl" path="/design/ezwebin/override/templates/horizontallylistedsubitems" md5sum="0503e3caa3d88ae7f14301a3dfd3956e"/>
+  <file name="extension.xml" md5sum="6a7ce47e842dfefa395f9717b5167c6c"/>
+  <file name="ezinfo.php" md5sum="413fc49eb5d08b16b5f4505f67d09ae9"/>
+  <file name="settings" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezxml.ini.append.php" path="/settings" md5sum="d0ff8dcbf436a4103fe781f6c03efa88"/>
+  <file name="design.ini.append.php" path="/settings" md5sum="0164745f1d8380129a01acc935f02587"/>
+  <file name="site.ini.append.php" path="/settings" md5sum="dcc156083b5578067cf2b20d0479301c"/>
+  <file name="websitetoolbar.ini.append.php" path="/settings" md5sum="11c50259346b9d4ead8ab2e1842901b4"/>
+  <file name="content.ini.append.php" path="/settings" md5sum="9a4ef1a360def5a03529967474b99116"/>
+  <file name="menu.ini.append.php" path="/settings" md5sum="3fbc64b97716b87aa7098f1b6ddd6b84"/>
+  <file name="template.ini.append.php" path="/settings" md5sum="93260637cf03db6f1137f98aaa705cfc"/>
+  <file name="ezoe_attributes.ini.append.php" path="/settings" md5sum="e3471df1db510285225dcb426e365abf"/>
+  <file name="doc" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="changelogs" path="/doc" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="1.5" path="/doc/changelogs" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="CHANGELOG-1.4-0-to-1.5-0" path="/doc/changelogs/1.5" md5sum="5f11f4772c385869b767819463706ef1"/>
+  <file name="1.3" path="/doc/changelogs" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="CHANGELOG-1.2-0-to-1.3-0" path="/doc/changelogs/1.3" md5sum="756c2a601771f17f937bbde6cec5e3fb"/>
+  <file name="1.8" path="/doc/changelogs" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="CHANGELOG-1.7.0-to-1.8.0" path="/doc/changelogs/1.8" md5sum="932c54a12bccfdff86d484ae68b237a2"/>
+  <file name="1.6" path="/doc/changelogs" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="CHANGELOG-1.5.0-to-1.6.0" path="/doc/changelogs/1.6" md5sum="5afb1279156182e734c07fc391e097c8"/>
+  <file name="1.1" path="/doc/changelogs" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="CHANGELOG-1.1-0-to-1.1-1" path="/doc/changelogs/1.1" md5sum="1f54f1ed047a4b6566a6d89bcf1535b3"/>
+  <file name="1.2" path="/doc/changelogs" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="CHANGELOG-1.1-0-to-1.2-0" path="/doc/changelogs/1.2" md5sum="ab961cd0d9bdc723a5e4007487c33add"/>
+  <file name="1.7" path="/doc/changelogs" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="CHANGELOG-1.6.0-to-1.7.0" path="/doc/changelogs/1.7" md5sum="870988aeb90f3e62ac1dae2bfaf1683d"/>
+  <file name="1.4" path="/doc/changelogs" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="CHANGELOG-1.3-0-to-1.4-0" path="/doc/changelogs/1.4" md5sum="e95c3706d9cad2cabf0750496658889f"/>
+  <file name="release-overview" path="/doc" md5sum="fb82a4d6443f2a555949e0d532ac7be1"/>
+</extension>

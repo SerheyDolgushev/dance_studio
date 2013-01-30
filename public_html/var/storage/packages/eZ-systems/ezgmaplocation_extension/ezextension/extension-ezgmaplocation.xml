@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension name="ezgmaplocation">
+  <file name="classes" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezgmllocationfilter.php" path="/classes" md5sum="50f12389475164a92f84b228f380931d"/>
+  <file name="ezgmaplocation.php" path="/classes" md5sum="1694579f649a9f2eaa04c565d2bc47ff"/>
+  <file name="sql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="oracle" path="/sql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="oracle.sql" path="/sql/oracle" md5sum="c91970ae7e4ef38ff13a4d28df634a8b"/>
+  <file name="mysql" path="/sql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="mysql.sql" path="/sql/mysql" md5sum="d4d17e46431c15158f2b0cafd6d42258"/>
+  <file name="postgresql" path="/sql" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="postgresql.sql" path="/sql/postgresql" md5sum="c7e0a049a2fbcba9276d2e0dba26f01d"/>
+  <file name="README" md5sum="8fca48653c6b09280cd242e00926e13c"/>
+  <file name="LICENSE" md5sum="eb723b61539feef013de476e68b5c50a"/>
+  <file name="update" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="database" path="/update" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="oracle" path="/update/database" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="1.5" path="/update/database/oracle" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="dbupdate-1.4-to-1.5.sql" path="/update/database/oracle/1.5" md5sum="65571ad3c6efd46fce1d308d85f616f0"/>
+  <file name="translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="jpn-JP" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/jpn-JP" md5sum="6877c6eb81851884e773b21e3e7a3d5b"/>
+  <file name="fre-FR" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/fre-FR" md5sum="7fb201de57a064a39c10ace5be3b2563"/>
+  <file name="ita-IT" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/ita-IT" md5sum="81d0aa82e76ceb06a8d146f216c590f9"/>
+  <file name="cat-ES" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/cat-ES" md5sum="8ad5774c07fd1e961436874496c5b775"/>
+  <file name="ger-DE" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/ger-DE" md5sum="36b7e4139edaab7b1a028abcaf039450"/>
+  <file name="nor-NO" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/nor-NO" md5sum="31cbdd5bf1c46117f9a376bb629ae116"/>
+  <file name="cro-HR" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/cro-HR" md5sum="cf80f18a5eb0aa9cfa8d94e0b3da4911"/>
+  <file name="por-BR" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/por-BR" md5sum="ef1b244e91d4381490125fba3342c467"/>
+  <file name="esl-ES" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/esl-ES" md5sum="30f8ad83795f4a5a777a4cb248fa210c"/>
+  <file name="untranslated" path="/translations" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="translation.ts" path="/translations/untranslated" md5sum="5159f58e8d66ddbd4fdecadc4ea87cb9"/>
+  <file name="design" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="standard" path="/design" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="templates" path="/design/standard" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="class" path="/design/standard/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="datatype" path="/design/standard/templates/class" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="view" path="/design/standard/templates/class/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezgmaplocation.tpl" path="/design/standard/templates/class/datatype/view" md5sum="0a7aa5c3a174fc74aa64007e7afe7e8d"/>
+  <file name="edit" path="/design/standard/templates/class/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezgmaplocation.tpl" path="/design/standard/templates/class/datatype/edit" md5sum="0a7aa5c3a174fc74aa64007e7afe7e8d"/>
+  <file name="content" path="/design/standard/templates" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="datatype" path="/design/standard/templates/content" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="view" path="/design/standard/templates/content/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezgmaplocation.tpl" path="/design/standard/templates/content/datatype/view" md5sum="0978611cbcd27798ce92d6cc6db59385"/>
+  <file name="edit" path="/design/standard/templates/content/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezgmaplocation.tpl" path="/design/standard/templates/content/datatype/edit" md5sum="55713318779da695c003234b745cfbc3"/>
+  <file name="extension.xml" md5sum="650a666adfee135ee5688022fa845527"/>
+  <file name="datatypes" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezgmaplocation" path="/datatypes" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="ezgmaplocationtype.php" path="/datatypes/ezgmaplocation" md5sum="618bd275750f0adb41e3236c56becda4"/>
+  <file name="ezinfo.php" md5sum="8226ddb8721488aa0effb31b0abea57f"/>
+  <file name="CHANGELOG.txt" md5sum="dfd6af549813e7ed82a923dfbd9b1304"/>
+  <file name="settings" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="design.ini.append.php" path="/settings" md5sum="809a9f38c23f6e7e57704943a315168f"/>
+  <file name="site.ini.append.php" path="/settings" md5sum="35ad56ac0e8c3c4c58def67e86fe36af"/>
+  <file name="ezgmaplocation.ini.append.php" path="/settings" md5sum="a2c17e1cc7f62bb111af479c5050e92a"/>
+  <file name="content.ini.append.php" path="/settings" md5sum="9d4f05a1ffa5fcb54832194f12748ef8"/>
+  <file name="dbschema.ini.append.php" path="/settings" md5sum="7bc1e1eeb87013e44fc58b281bec1eeb"/>
+  <file name="extendedattributefilter.ini.append.php" path="/settings" md5sum="c9e484eed531acd55d8b5c2c90b02242"/>
+  <file name="datatype.ini.append.php" path="/settings" md5sum="a61e3a5a24f283d9edd3dc6db07ef584"/>
+  <file name="share" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
+  <file name="db_schema.dba" path="/share" md5sum="979f06f1423e9c3af74e4009cae3d922"/>
+</extension>
