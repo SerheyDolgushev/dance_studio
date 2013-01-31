@@ -89,12 +89,6 @@ MatchFile=admin_preview/link.tpl
 Subdir=templates
 Match[class_identifier]=link
 
-[person]
-Source=node/view/admin_preview.tpl
-MatchFile=admin_preview/person.tpl
-Subdir=templates
-Match[class_identifier]=person
-
 [poll]
 Source=node/view/admin_preview.tpl
 MatchFile=admin_preview/poll.tpl
