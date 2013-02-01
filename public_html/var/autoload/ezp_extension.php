@@ -17,7 +17,7 @@ return array(
       'PSpell'                              => 'extension/ezoe/modules/ezoe/classes/PSpell.php',
       'PSpellShell'                         => 'extension/ezoe/modules/ezoe/classes/PSpellShell.php',
       'SpellChecker'                        => 'extension/ezoe/modules/ezoe/classes/SpellChecker.php',
-      'eZArchive'                           => 'extension/ezwebin/autoloads/ezarchive.php',
+      'dance_studioInfo'                    => 'extension/dance_studio/ezinfo.php',
       'eZIEEzcConversions'                  => 'extension/ezie/classes/interfaces/conversions.php',
       'eZIEEzcGDHandler'                    => 'extension/ezie/classes/handlers/gd.php',
       'eZIEEzcImageMagickHandler'           => 'extension/ezie/classes/handlers/magick.php',
@@ -36,12 +36,9 @@ return array(
       'eZIEImageToolRotation'               => 'extension/ezie/classes/image_tool_rotation.php',
       'eZIEImageToolWatermark'              => 'extension/ezie/classes/image_tool_watermark.php',
       'eZIEezcImageConverter'               => 'extension/ezie/classes/image_converter.php',
-      'eZKeywordList'                       => 'extension/ezwebin/autoloads/ezkeywordlist.php',
       'eZOEInputParser'                     => 'extension/ezoe/ezxmltext/handlers/input/ezoeinputparser.php',
       'eZOETemplateUtils'                   => 'extension/ezoe/autoloads/ezoetemplateutils.php',
       'eZOEXMLInput'                        => 'extension/ezoe/ezxmltext/handlers/input/ezoexmlinput.php',
-      'eZPageData'                          => 'extension/ezwebin/autoloads/ezpagedata.php',
-      'eZTagCloud'                          => 'extension/ezwebin/autoloads/eztagcloud.php',
       'ezjscAccessTemplateFunctions'        => 'extension/ezjscore/autoloads/ezjscaccesstemplatefunctions.php',
       'ezjscAjaxContent'                    => 'extension/ezjscore/classes/ezjscajaxcontent.php',
       'ezjscCssOptimizer'                   => 'extension/ezjscore/classes/ezjsccssoptimizer.php',
@@ -60,7 +57,6 @@ return array(
       'ezpAjaxUploaderHandlerInterface'     => 'extension/ezjscore/classes/ajaxuploader/ezpajaxuploaderhandlerinterface.php',
       'ezpRelationAjaxUploader'             => 'extension/ezjscore/classes/ajaxuploader/ezprelationajaxuploader.php',
       'ezpRelationListAjaxUploader'         => 'extension/ezjscore/classes/ajaxuploader/ezprelationlistajaxuploader.php',
-      'ezwebinInfo'                         => 'extension/ezwebin/ezinfo.php',
     );
 
 ?>

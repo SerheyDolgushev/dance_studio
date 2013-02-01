@@ -4,9 +4,9 @@
 ActiveExtensions[]
 ActiveExtensions[]=ezautosave
 ActiveExtensions[]=ezjscore
-ActiveExtensions[]=ezwebin
 ActiveExtensions[]=ezie
 ActiveExtensions[]=ezoe
+ActiveExtensions[]=dance_studio
 
 [Session]
 SessionNameHandler=custom
@@ -14,7 +14,6 @@ SessionNameHandler=custom
 [SiteSettings]
 DefaultAccess=eng
 SiteList[]
-SiteList[]=ezwebin_site_user
 SiteList[]=eng
 SiteList[]=ezwebin_site_admin
 RootNodeDepth=1
@@ -26,13 +25,12 @@ LogoutRedirect=/
 ForceVirtualHost=true
 CheckValidity=false
 AvailableSiteAccessList[]
-AvailableSiteAccessList[]=ezwebin_site_user
 AvailableSiteAccessList[]=eng
 AvailableSiteAccessList[]=ezwebin_site_admin
 MatchOrder=host
 HostMatchMapItems[]
 HostMatchMapItems[]=admin.dance-studio.com;ezwebin_site_admin
-HostMatchMapItems[]=dance-studio.com;ezwebin_site_user
+HostMatchMapItems[]=dance-studio.com;eng
 
 [DesignSettings]
 DesignLocationCache=enabled

@@ -28,13 +28,12 @@ RegistrationEmail=
 [SiteAccessSettings]
 RequireUserLogin=false
 RelatedSiteAccessList[]
-RelatedSiteAccessList[]=ezwebin_site_user
 RelatedSiteAccessList[]=eng
 RelatedSiteAccessList[]=ezwebin_site_admin
 ShowHiddenNodes=false
 
 [DesignSettings]
-SiteDesign=ezwebin
+SiteDesign=dance
 AdditionalSiteDesignList[]
 AdditionalSiteDesignList[]=base
 
