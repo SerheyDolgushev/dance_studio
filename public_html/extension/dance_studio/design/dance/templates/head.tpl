@@ -22,6 +22,8 @@
 	)
 )}
 
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJAaq8L5qwoY9J9mzRaRZbaEhkJ7PjZLA&sensor=false"></script>
+
 <!--[if lt IE 9]>
 	<script type="text/javascript" src="{'javascript/html5.js'|ezdesign( 'no' )}"></script>
 <![endif]-->

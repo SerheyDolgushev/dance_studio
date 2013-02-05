@@ -1,3 +1,19 @@
+<IfModule mod_expires.c>
+	Header set cache-control: public
+	ExpiresActive on
+	ExpiresByType font/ttf "access plus 1 year"
+	ExpiresByType application/x-font-woff "access plus 1 year"
+	ExpiresByType application/vnd.ms-fontobject "access plus 1 year"
+	ExpiresByType image/svg+xml "access plus 1 year"
+ 	ExpiresByType image/png "access plus 1 year"
+</IfModule>
+
+<IfModule mod_deflate.c>
+	AddOutputFilterByType DEFLATE text/html text/plain text/xml
+	AddOutputFilterByType DEFLATE text/javascript text/css application/javascript
+	AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+</IfModule>
+
 # Copy this file to a new file called .htaccess in your eZ Publish root
 # to secure your installation by turning on .htaccess based virtual host mode.
 

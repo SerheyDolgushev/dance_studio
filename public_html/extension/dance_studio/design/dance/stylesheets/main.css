@@ -44,6 +44,28 @@ body{
 	position: absolute;
 	background: #000;
 }
+#frontpage-slider {
+	position: absolute;
+	left: 220px;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background-color: transparent;
+	z-index: 0;
+}
+.frontpage-slider-item {
+	display: none;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+}
+.frontpage-slider-item>img {
+	height: 100%;
+	width: auto;
+}
 /*-------------header------------*/
 .navBox{
 	position: absolute;
@@ -71,7 +93,14 @@ nav{
 nav>ul>li{
 	position: relative;
 	z-index: 10;
-	width: 220px;
+	width: 210px;
+	height: 32px;
+	line-height: 32px;
+	margin-bottom: 2px;
+}
+nav>ul>li:hover,
+nav>ul>li.active {
+	background: transparent url(../images/over-part.png) no-repeat right top;
 }
 nav>ul{
 	position: absolute;
@@ -81,8 +110,8 @@ nav>ul>li>a{
 	color: #fff;
 	text-decoration: none;
 	display: block;
-	height: 33px;
-	padding: 2px 0;
+	line-height: 32px;
+	padding: 0 0 0 35px;
 }
 nav>ul>li ul{
     padding: 28px 39px 17px;	
@@ -199,6 +228,9 @@ section> ul > li .scrollbar > .track > .thumb{
 	padding-right: 20px;
 	margin-bottom: 20px;
 }
+.box_1:nth-child(even){
+	padding: 0;
+} 
 .box_1 img{
 	padding-bottom: 16px;
 }
@@ -513,4 +545,8 @@ hr{
 }
 .box_4 a:hover{
 	color: #a50514;
+}
+
+.box_4 p a {
+	display: inline;
 }

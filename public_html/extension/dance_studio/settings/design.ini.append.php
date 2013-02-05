@@ -5,8 +5,8 @@ DesignExtensions[]=dance_studio
 
 [StylesheetSettings]
 FrontendCSSFileList[]
-FrontendCSSFileList[]=main.css
 FrontendCSSFileList[]=reset.css
+FrontendCSSFileList[]=main.css
 
 [JavaScriptSettings]
 FrontendJavaScriptList[]
@@ -20,8 +20,6 @@ FrontendJavaScriptList[]=jquery.mousewheel.js
 FrontendJavaScriptList[]=superfish.js
 FrontendJavaScriptList[]=switcher.js
 FrontendJavaScriptList[]=forms.js
-FrontendJavaScriptList[]=google-map.js
-FrontendJavaScriptList[]=gallery.js
 FrontendJavaScriptList[]=over-buttons.js
 FrontendJavaScriptList[]=main.js
 

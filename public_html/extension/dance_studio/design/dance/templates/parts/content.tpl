@@ -27,12 +27,16 @@
 				{include uri='design:pages/home.tpl' page=$page}
 				{elseif eq( $page_type, 'instructors' )}
 				{include uri='design:pages/instructors.tpl' page=$page}
+				{elseif eq( $page_type, 'contacts' )}
+				{include uri='design:pages/contacts.tpl' page=$page}
 				{else}
 				{include uri='design:pages/default.tpl' page=$page}
 				{/if}
 				</div>
 			</div>
+			{if ne( $page_type, 'contacts' )}
 			<div class="scrollWrapper"><div class="scrollbar"><div class="track"><div class="thumb"></div></div></div></div>
+			{/if}
 		</li>
 		{/foreach}
 	</ul>

@@ -2,7 +2,7 @@
 
 [ExtensionSettings]
 ActiveExtensions[]
-ActiveExtensions[]=ezautosave
+ActiveExtensions[]=ezmultiupload
 ActiveExtensions[]=ezjscore
 ActiveExtensions[]=ezie
 ActiveExtensions[]=ezoe
@@ -29,8 +29,9 @@ AvailableSiteAccessList[]=eng
 AvailableSiteAccessList[]=ezwebin_site_admin
 MatchOrder=host
 HostMatchMapItems[]
-HostMatchMapItems[]=admin.dance-studio.com;ezwebin_site_admin
-HostMatchMapItems[]=dance-studio.com;eng
+HostMatchMapItems[]=goroyandancestudio.com;eng
+HostMatchMapItems[]=new.goroyandancestudio.com;eng
+HostMatchMapItems[]=admin.goroyandancestudio.com;ezwebin_site_admin
 
 [DesignSettings]
 DesignLocationCache=enabled

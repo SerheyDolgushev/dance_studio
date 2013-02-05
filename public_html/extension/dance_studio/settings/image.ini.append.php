@@ -7,10 +7,10 @@ AliasList[]=person
 [splash]
 Reference=
 Filters[]
-Filters[]=geometry/scaleexact=1263;726
+Filters[]=geometry/scaleheight=1200
 
 [person]
 Reference=
 Filters[]
-Filters[]=geometry/scaleexact=270;162
+Filters[]=geometry/scalewidth=270;162
 */ ?>
