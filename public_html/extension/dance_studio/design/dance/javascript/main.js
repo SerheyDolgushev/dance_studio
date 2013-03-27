@@ -47,7 +47,7 @@ $(document).ready(function(){
  	   	  			if(_.curr) {
  	  	  				_.curr.css({display:'block'});
  	  	  				if( _.curr.attr( 'id' ) === 'contacts' && window.is_map_loaded === false ) {
-							var l   = new google.maps.LatLng(-34.397, 150.644);
+							var l   = new google.maps.LatLng(34.3112663,-118.2526623);
 							var map = new google.maps.Map(
 								document.getElementById( 'map_container' ), {
 									center: l,

@@ -30,6 +30,7 @@ AvailableSiteAccessList[]=ezwebin_site_admin
 MatchOrder=host
 HostMatchMapItems[]
 HostMatchMapItems[]=goroyandancestudio.com;eng
+HostMatchMapItems[]=www.goroyandancestudio.com;eng
 HostMatchMapItems[]=new.goroyandancestudio.com;eng
 HostMatchMapItems[]=admin.goroyandancestudio.com;ezwebin_site_admin
 
