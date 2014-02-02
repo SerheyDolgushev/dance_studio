@@ -33,6 +33,8 @@ HostMatchMapItems[]=goroyandancestudio.com;eng
 HostMatchMapItems[]=www.goroyandancestudio.com;eng
 HostMatchMapItems[]=new.goroyandancestudio.com;eng
 HostMatchMapItems[]=admin.goroyandancestudio.com;ezwebin_site_admin
+HostMatchMapItems[]=dance.local;eng
+HostMatchMapItems[]=admin.dance.local;ezwebin_site_admin
 
 [DesignSettings]
 DesignLocationCache=enabled
