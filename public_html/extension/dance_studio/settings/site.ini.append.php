@@ -1,7 +1,7 @@
 <?php /*
 [SiteSettings]
 SiteName=Goroyan Dance Studio
-SiteURL=http://dance-studio.com
+SiteURL=http://goroyandancestudio.com
 
 [SiteAccessRules]
 Rules[]=access;disable
